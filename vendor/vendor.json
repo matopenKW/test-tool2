@@ -51,10 +51,6 @@
 			"revisionTime": "2019-11-11T20:22:24Z"
 		},
 		{
-			"path": "github.com/go-playground/validator/v10",
-			"revision": ""
-		},
-		{
 			"checksumSHA1": "Q3FteGbNvRRUMJqbYbmrcBd2DMo=",
 			"path": "github.com/golang/protobuf/proto",
 			"revision": "ed6926b37a637426117ccab59282c3839528a700",
@@ -101,6 +97,12 @@
 			"path": "golang.org/x/sys/unix",
 			"revision": "c709ea063b76879dc9915358f55d4d77c16ab6d5",
 			"revisionTime": "2019-12-16T21:59:25Z"
+		},
+		{
+			"checksumSHA1": "6qbflCHqmSL3yASbznvBQ3le8oI=",
+			"path": "gopkg.in/go-playground/validator.v10",
+			"revision": "fb6c45823ad5db49e788621271c6f86fa3a0f149",
+			"revisionTime": "2019-12-25T05:43:24Z"
 		},
 		{
 			"checksumSHA1": "hnOwxCQqk+35llUJrCgcaS1DDxU=",
