@@ -9,16 +9,16 @@
 			"revisionTime": "2019-09-05T05:13:34Z"
 		},
 		{
-			"checksumSHA1": "JdU57hF/wS5uTZk+5w+NN83kBIU=",
+			"checksumSHA1": "4KthiFtfVweFF0i4vVEPS9qMi5k=",
 			"path": "github.com/gin-gonic/gin",
-			"revision": "9b3477ef9d2c6a611c9c00cc18aba5a6ba6a7641",
-			"revisionTime": "2019-12-20T06:01:58Z"
+			"revision": "b562fed3aa28c6e6d0299406d6b06bcb16a498cc",
+			"revisionTime": "2019-09-11T10:10:39Z"
 		},
 		{
-			"checksumSHA1": "wUT8mr2qXvj7vgc2oGoE+bbJlt8=",
+			"checksumSHA1": "YVmkm8rchyirBqjRyN/G+ULrpDo=",
 			"path": "github.com/gin-gonic/gin/binding",
-			"revision": "9b3477ef9d2c6a611c9c00cc18aba5a6ba6a7641",
-			"revisionTime": "2019-12-20T06:01:58Z"
+			"revision": "b562fed3aa28c6e6d0299406d6b06bcb16a498cc",
+			"revisionTime": "2019-09-11T10:10:39Z"
 		},
 		{
 			"checksumSHA1": "rST0S8cuVbM57VmJhWXhKNUkKTc=",
@@ -97,12 +97,6 @@
 			"path": "golang.org/x/sys/unix",
 			"revision": "c709ea063b76879dc9915358f55d4d77c16ab6d5",
 			"revisionTime": "2019-12-16T21:59:25Z"
-		},
-		{
-			"checksumSHA1": "6qbflCHqmSL3yASbznvBQ3le8oI=",
-			"path": "gopkg.in/go-playground/validator.v10",
-			"revision": "fb6c45823ad5db49e788621271c6f86fa3a0f149",
-			"revisionTime": "2019-12-25T05:43:24Z"
 		},
 		{
 			"checksumSHA1": "hnOwxCQqk+35llUJrCgcaS1DDxU=",
